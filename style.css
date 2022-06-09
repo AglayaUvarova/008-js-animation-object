@@ -1,6 +1,7 @@
 body{
 
-background-image: url(space.jpg);
+background-image: url(shrekhome.jpg);
+size: 300px;
 
 }
 .character{
@@ -12,6 +13,8 @@ background-image: url(space.jpg);
   background-image: url('tizio.png');
   background-size:cover;
 }
+
+
 
 
 
